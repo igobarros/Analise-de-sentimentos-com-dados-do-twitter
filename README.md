@@ -1,6 +1,6 @@
 # Analise de sentimento com dados do twitter
 
-### Roteiro do notebook:
+### Estrutura do projeto:
 
 * 1 - Compreender a declaração do problema
 * 2 - Pré-processamento e Limpeza de Tweets
@@ -10,11 +10,11 @@
 * 4 - Extraindo recursos de tweets limpos
     * 4.1 - Bag-of-Words
     * 4.2 - TF-IDF
-    * 4.3 - Incorporação de palavras
+    * 4.3 - Word2vec
+    * 4.3 - Doc2vec
 * 5 - Construção de modelo: análise de sentimentos
     * 5.1 - Regressão logística
     * 5.2 - Máquina de vetores de suporte
     * 5.3 - RandomForest
     * 5.4 - XGBoost
 * 6 - Ajuste do modelo
-* 7 - Sumário
